@@ -10,9 +10,9 @@
 - CUDA Support: Available (1 device)
 /hr
 ## Software
-Python: 3.13.7
-PyTorch: 2.8.0+cu126 (CUDA-enabled)
-Jupyter Notebook: Configured and operational
+- Python: 3.13.7
+- PyTorch: 2.8.0+cu126 (CUDA-enabled)
+- Jupyter Notebook: Configured and operational
 /hr
 ## Environment Status
 ✅ PyTorch successfully imported and functional
